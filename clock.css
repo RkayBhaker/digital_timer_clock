@@ -213,7 +213,7 @@
 		#device_btn2{
 			padding: 20px 20px;
 			position: absolute;
-			transform: translate(250%, 85%);
+			transform: translate(150%, 85%);
 			border: 2px ridge white;
 			border-radius: 50rem;
 			background-color: black;
